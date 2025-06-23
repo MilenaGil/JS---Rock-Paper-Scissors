@@ -1,2 +1,2 @@
-# JS---Rock-Paper-Scissors
-Rock Paper Scissors game project
+# JavaScript Rock-Paper-Scissors
+Rock Paper Scissors game project, still in progress...
