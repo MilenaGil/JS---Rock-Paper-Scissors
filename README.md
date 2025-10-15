@@ -6,7 +6,7 @@ This is a beginner-friendly JavaScript project that demonstrates how to create a
 
 Now:
 
-<img width="695" height="836" alt="image" src="https://github.com/user-attachments/assets/6793ee84-c532-425e-95aa-5ff366be20a8" />
+<img width="347.5" height="418" alt="image" src="https://github.com/user-attachments/assets/6793ee84-c532-425e-95aa-5ff366be20a8" />
 <img width="730" height="835" alt="image" src="https://github.com/user-attachments/assets/49a92749-74e3-40d0-860a-26f2e2a57fba" />
 <img width="695" height="601" alt="image" src="https://github.com/user-attachments/assets/8c0f4e17-902d-4c07-94d4-b17bf66dd3e4" />
 <img width="706" height="837" alt="image" src="https://github.com/user-attachments/assets/ed30907b-79e1-41eb-a7e3-e7387bc13aef" />
